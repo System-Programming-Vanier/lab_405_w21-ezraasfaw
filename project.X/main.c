@@ -11,15 +11,15 @@
 #include "initBoard.h"
 #include "Tick_core.h"
 #include "console32.h"
-
+#include "Timer3.h"
 main()
 {
     //initUart1(); 
-
-    //initIO();
-
+    initIO();
+    initT3();
+    
     // main super loop
     while( 1){
-
+                
     }// end of super loop
 } //end main
