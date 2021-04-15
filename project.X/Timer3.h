@@ -15,8 +15,8 @@
  */
 /* ************************************************************************** */
 
-#ifndef timer_h
-#define timer_h
+#ifndef Timer3_h
+#define Timer3_h
 
 void initT3();
 
