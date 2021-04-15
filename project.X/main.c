@@ -16,10 +16,10 @@ main()
 {
     //initUart1(); 
     initIO();
-    initT3();
-    
+    //initT3();
+    initCN15();
     // main super loop
-    while( 1){
+    while(1){
                 
     }// end of super loop
 } //end main

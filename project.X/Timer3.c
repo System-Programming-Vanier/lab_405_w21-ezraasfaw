@@ -1,11 +1,9 @@
 /* ************************************************************************** */
 /** Descriptive File Name
 
-  @Company
-    Company Name
+ Ezra-Fikru Asfaw
 
-  @File Name
-    filename.h
+ Timer3.c
 
   @Summary
     Brief description of the file.
@@ -17,6 +15,7 @@
 
 #include <xc.h>
 #include <sys/attribs.h>
+//#include "Timer3.h"
 
 void initT3(void){
     
